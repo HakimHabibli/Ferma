@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Ferma\\Ferma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma\\ferma.domain\\entites\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma\\ferma.domain\\entites\\residualmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\residualmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma\\ferma.domain\\entites\\soldanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\soldanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma\\ferma.domain\\entites\\soldmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\soldmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma\\ferma.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Milk.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma\\Ferma.Domain\\Entites\\Milk.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\Milk.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma\\Ferma.Domain\\Entites\\Milk.cs",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\Milk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:35:35.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResidualMilk.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma\\Ferma.Domain\\Entites\\ResidualMilk.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\ResidualMilk.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma\\Ferma.Domain\\Entites\\ResidualMilk.cs",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\ResidualMilk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:35:33.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoldMilk.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma\\Ferma.Domain\\Entites\\SoldMilk.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\SoldMilk.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma\\Ferma.Domain\\Entites\\SoldMilk.cs",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\SoldMilk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:35:22.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoldAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma\\Ferma.Domain\\Entites\\SoldAnimal.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\SoldAnimal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma\\Ferma.Domain\\Entites\\SoldAnimal.cs",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\SoldAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:35:05.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma\\Ferma.Domain\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma\\Ferma.Domain\\GlobalUsing.cs",
+              "RelativeToolTip": "Ferma.Domain\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:35:03.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
