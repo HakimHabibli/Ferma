@@ -1,10 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Ferma\\Ferma\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Ferma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma\\ferma.domain\\entites\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma.domain\\entites\\calf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\calf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma.domain\\entites\\residualmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\residualmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma.domain\\entites\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma.domain\\entites\\soldmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\soldmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma.domain\\entites\\younge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\younge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma.domain\\entites\\soldanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\soldanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma.domain\\entites\\pregnancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\pregnancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma.domain\\entites\\pendingoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\pendingoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma.domain\\entites\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma.domain\\entites\\deadanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\deadanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma.domain\\entites\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\entites\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F842307-4FA9-4B30-8AA5-5744338854B9}|Ferma.Persistence\\Ferma.Persistence.csproj|c:\\users\\user\\desktop\\ferma\\ferma.persistence\\configurations\\baseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F842307-4FA9-4B30-8AA5-5744338854B9}|Ferma.Persistence\\Ferma.Persistence.csproj|solutionrelative:ferma.persistence\\configurations\\baseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F842307-4FA9-4B30-8AA5-5744338854B9}|Ferma.Persistence\\Ferma.Persistence.csproj|c:\\users\\user\\desktop\\ferma\\ferma.persistence\\ferma.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F842307-4FA9-4B30-8AA5-5744338854B9}|Ferma.Persistence\\Ferma.Persistence.csproj|solutionrelative:ferma.persistence\\ferma.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|c:\\users\\user\\desktop\\ferma\\ferma.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F7E9E9-BB5A-4EF3-ABAB-1801D6511D93}|Ferma.Domain\\Ferma.Domain.csproj|solutionrelative:ferma.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +70,201 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma\\Ferma.Domain\\Entites\\Animal.cs",
-              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\Animal.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma\\Ferma.Domain\\Entites\\Animal.cs",
-              "RelativeToolTip": "Ferma.Domain\\Entites\\Animal.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwC0AAAAwAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\GlobalUsing.cs*",
+              "RelativeToolTip": "Ferma.Domain\\GlobalUsing.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:15:10.372Z",
+              "WhenOpened": "2025-03-24T13:54:51.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Younge.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\Younge.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\Younge.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\Younge.cs",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\Younge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:52:50.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoldMilk.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\SoldMilk.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\SoldMilk.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\SoldMilk.cs",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\SoldMilk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:52:48.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoldAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\SoldAnimal.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\SoldAnimal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\SoldAnimal.cs*",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\SoldAnimal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:52:44.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResidualMilk.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\ResidualMilk.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\ResidualMilk.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\ResidualMilk.cs",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\ResidualMilk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:52:41.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pregnancy.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\Pregnancy.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\Pregnancy.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\Pregnancy.cs*",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\Pregnancy.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:52:34.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PendingOperation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\PendingOperation.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\PendingOperation.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\PendingOperation.cs",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\PendingOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:52:31.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Milk.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\Milk.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\Milk.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\Milk.cs",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\Milk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:52:26.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeadAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\DeadAnimal.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\DeadAnimal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\DeadAnimal.cs*",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\DeadAnimal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:52:22.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\Cow.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\Cow.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\Cow.cs",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\Cow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:52:06.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calf.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\Calf.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\Calf.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\Calf.cs*",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\Calf.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:52:02.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\Animal.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Entites\\Animal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Entites\\Animal.cs*",
+              "RelativeToolTip": "Ferma.Domain\\Entites\\Animal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:46:26.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ferma.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Persistence\\Ferma.Persistence.csproj",
+              "RelativeDocumentMoniker": "Ferma.Persistence\\Ferma.Persistence.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Persistence\\Ferma.Persistence.csproj",
+              "RelativeToolTip": "Ferma.Persistence\\Ferma.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T13:38:21.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Ferma.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Ferma.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:17:45.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Persistence\\Configurations\\BaseEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Ferma.Persistence\\Configurations\\BaseEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Persistence\\Configurations\\BaseEntityConfiguration.cs*",
+              "RelativeToolTip": "Ferma.Persistence\\Configurations\\BaseEntityConfiguration.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:15:26.453Z",
               "EditorCaption": ""
             }
           ]

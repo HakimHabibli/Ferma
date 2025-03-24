@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Ferma\Ferma.Persistence\obj\Debug\net8.0\Ferma.Persistence.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Ferma\Ferma.Persistence\obj\Debug\net8.0\Ferma.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Ferma\Ferma.Persistence\obj\Debug\net8.0\Ferma.Persistence.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Ferma\Ferma.Persistence\obj\Debug\net8.0\Ferma.Persistence.AssemblyInfo.cs
+C:\Users\User\Desktop\Ferma\Ferma.Persistence\obj\Debug\net8.0\Ferma.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ferma\Ferma.Persistence\obj\Debug\net8.0\Ferma.Persistence.sourcelink.json

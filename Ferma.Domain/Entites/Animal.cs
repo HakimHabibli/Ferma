@@ -5,7 +5,7 @@
 /// </summary>
 public abstract class Animal : BaseEntity
 {
-    public int BilkaNumber { get; set; }
+    public string BilkaNumber { get; set; }
     public string? Name { get; set; }
     public double? Weight { get; set; }
     public DateTime? Birthdate { get; set; }

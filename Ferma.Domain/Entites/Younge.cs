@@ -4,7 +4,7 @@
 /// </summary>
 public class Younge : Animal, IHealthCheck
 {
-    public string Gender { get; set; }
+    public Gender Gender { get; set; }
     public string? HealthStatus { get; set; }
 }
 
