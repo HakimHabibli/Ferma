@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Ferma.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Ferma\\Ferma.Domain\\Ferma.Domain.csproj",
       "projectName": "Ferma.Domain",
-      "projectPath": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\Ferma.Domain.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Ferma\\Ferma.Domain\\Ferma.Domain.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Ferma\\Ferma.Domain\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Ferma\\Ferma.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
