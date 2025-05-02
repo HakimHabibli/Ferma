@@ -10,3 +10,15 @@ C:\Users\User\Desktop\Ferma\Ferma.Domain\obj\Debug\net8.0\Ferma.Domain.dll
 C:\Users\User\Desktop\Ferma\Ferma.Domain\obj\Debug\net8.0\refint\Ferma.Domain.dll
 C:\Users\User\Desktop\Ferma\Ferma.Domain\obj\Debug\net8.0\Ferma.Domain.pdb
 C:\Users\User\Desktop\Ferma\Ferma.Domain\obj\Debug\net8.0\ref\Ferma.Domain.dll
+C:\Users\User\OneDrive\Desktop\MyProject\Ferma\Ferma.Domain\bin\Debug\net8.0\Ferma.Domain.deps.json
+C:\Users\User\OneDrive\Desktop\MyProject\Ferma\Ferma.Domain\bin\Debug\net8.0\Ferma.Domain.dll
+C:\Users\User\OneDrive\Desktop\MyProject\Ferma\Ferma.Domain\bin\Debug\net8.0\Ferma.Domain.pdb
+C:\Users\User\OneDrive\Desktop\MyProject\Ferma\Ferma.Domain\obj\Debug\net8.0\Ferma.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\MyProject\Ferma\Ferma.Domain\obj\Debug\net8.0\Ferma.Domain.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\MyProject\Ferma\Ferma.Domain\obj\Debug\net8.0\Ferma.Domain.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\MyProject\Ferma\Ferma.Domain\obj\Debug\net8.0\Ferma.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\MyProject\Ferma\Ferma.Domain\obj\Debug\net8.0\Ferma.Domain.sourcelink.json
+C:\Users\User\OneDrive\Desktop\MyProject\Ferma\Ferma.Domain\obj\Debug\net8.0\Ferma.Domain.dll
+C:\Users\User\OneDrive\Desktop\MyProject\Ferma\Ferma.Domain\obj\Debug\net8.0\refint\Ferma.Domain.dll
+C:\Users\User\OneDrive\Desktop\MyProject\Ferma\Ferma.Domain\obj\Debug\net8.0\Ferma.Domain.pdb
+C:\Users\User\OneDrive\Desktop\MyProject\Ferma\Ferma.Domain\obj\Debug\net8.0\ref\Ferma.Domain.dll

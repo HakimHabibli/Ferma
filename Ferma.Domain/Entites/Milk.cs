@@ -12,10 +12,4 @@ public class Milk : BaseEntity
     public List<Tank> Tanks { get; set; }
 
 }
-public class Tank : BaseEntity
-{ 
-    public string Name { get; set; }
-    public double Capacity { get; set; }
-    public List<Milk> Milks { get; set; }
-}
 

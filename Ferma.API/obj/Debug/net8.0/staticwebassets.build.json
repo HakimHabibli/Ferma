@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BDFRxXvz6w4FXYzbkXSI5i6QWlCWJsu8ckgSprxBKnA=",
+  "Source": "Ferma.API",
+  "BasePath": "_content/Ferma.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
