@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ferma.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a56e44b7d954d5966f59fc31e67e8e20ad8d600")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b56ed971f48ae3a3319e4e058966df43572f1310")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ferma.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ferma.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

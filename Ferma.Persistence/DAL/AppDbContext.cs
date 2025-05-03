@@ -7,7 +7,7 @@ public class AppDbContext : DbContext
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
     {
     }
-    public DbSet<Animal> Animals { get; set; }
+    //public DbSet<Animal> Animals { get; set; }
     public DbSet<Calf> Calves { get; set; }
     public DbSet<Cow> Cows { get; set; }
     public DbSet<DeadAnimal> DeadAnimals { get; set; }
@@ -26,3 +26,9 @@ public class AppDbContext : DbContext
         modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
     }
 }
+
+/*
+ 
+ Add-Migration InitialCreate -Project Ferma.Persistence -StartupProject Ferma.API
+ 
+ */
