@@ -10,4 +10,8 @@
     <Folder Include="DTO%27s\EntitiesDto\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Ferma.Domain\Ferma.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
